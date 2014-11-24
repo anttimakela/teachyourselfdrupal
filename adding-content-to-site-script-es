@@ -11,7 +11,7 @@ Primero vamos a crear la página de inicio.
 
 Haga clic en el enlace "Basic page".
 
-El campo "title" es obligatorio para todas los tipos de contenido.
+El campo "title" es obligatorio para todos los tipos de contenido.
 Se puede dar cuenta que es un campo obligatorio, ya que tiene un asterisco al lado de él.
 El campo "Body" es opcional. Vamos a poner texto en el "Body" de todas nuestras páginas.
 
