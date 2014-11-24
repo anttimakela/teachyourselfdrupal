@@ -1,0 +1,41 @@
+Cuando visitamos la página principal de nuestro sitio, vemos que no hay contenido en esta.
+De hecho, no hay ningún contenido.
+Lo podemos comprobar haciendo clic en el enlace "Find content" en el área de enlaces de acción.
+
+Vamos ahora a añadir nuestro contenido.
+Podemos hacer clic en "Add content", ya sea en el menú contextual o en el área de enlaces de acción.
+
+Para esta sencilla página estaremos usando el tipo de contenido "Basic Page".
+Crearemos un total de seis páginas.
+Primero vamos a crear la página de inicio.
+
+Haga clic en el enlace "Basic page".
+
+El campo "title" es obligatorio para todas los tipos de contenido.
+Se puede dar cuenta que es un campo obligatorio, ya que tiene un asterisco al lado de él.
+El campo "Body" es opcional. Vamos a poner texto en el "Body" de todas nuestras páginas.
+
+Para facilitar las cosas, utilizaré la información proporcionada en el repositorio de Github.
+
+Voy a abrir una nueva pestaña del navegador e iremos a https://github.com/teachyourselfdrupal.
+Haga clic en el repositorio teachyourselfdrupal.
+Haga clic en el 001-content-of-basic-pages
+
+Seleccione el título de la primera página y péguelo en el campo de texto "Title".
+
+En este momento, no se preocupes por el enlace "Edit summary".
+Sólo tienes que copiar y pegar el texto de cuerpo para primera página.
+
+Usted puede dejar el formato de texto se establece en "Filtered HTML".
+
+Marque la casilla para proporcionar un enlace de menú.
+
+Desplácese hacia abajo y guarde la página.
+
+Vamos a seguir este mismo proceso para las cinco páginas restantes.
+
+Para crear la segunda página, puede hacer clic en el enlace "Add content" en el bloque de navegación o puede hacer clic en el menú contextual.
+Recuerde que vamos a utilizar el tipo de contenido "Basic page" para todas nuestras páginas de este sitio.
+
+Después de creado todas las páginas, visite la página de inicio.
+Bueno, parece que todavía tenemos que configurar un poco más. Nos vemos en el siguiente video!
