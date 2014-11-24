@@ -5,7 +5,7 @@ Lo podemos comprobar haciendo clic en el enlace "Find content" en el área de en
 Vamos ahora a añadir nuestro contenido.
 Podemos hacer clic en "Add content", ya sea en el menú contextual o en el área de enlaces de acción.
 
-Para esta sencilla página estaremos usando el tipo de contenido "Basic Page".
+Para esta sencilla sitio estaremos usando el tipo de contenido "Basic Page".
 Crearemos un total de seis páginas.
 Primero vamos a crear la página de inicio.
 
@@ -19,23 +19,23 @@ Para facilitar las cosas, utilizaré la información proporcionada en el reposit
 
 Voy a abrir una nueva pestaña del navegador e iremos a https://github.com/teachyourselfdrupal.
 Haga clic en el repositorio teachyourselfdrupal.
-Haga clic en el 001-content-of-basic-pages
+Haga clic en el content-of-basic-pages
 
-Seleccione el título de la primera página y péguelo en el campo de texto "Title".
+Selecciona el título de la primera página y pegalo en el campo de texto "Title".
 
-En este momento, no se preocupes por el enlace "Edit summary".
+En este momento, no te preocupes por el enlace "Edit summary".
 Sólo tienes que copiar y pegar el texto de cuerpo para primera página.
 
-Usted puede dejar el formato de texto se establece en "Filtered HTML".
+Tu puedes dejar el formato de texto se establece en "Filtered HTML".
 
-Marque la casilla para proporcionar un enlace de menú.
+Marca la casilla para proporcionar un enlace de menú.
 
-Desplácese hacia abajo y guarde la página.
+Desplace la pagina hacia abajo y guarda la página.
 
 Vamos a seguir este mismo proceso para las cinco páginas restantes.
 
-Para crear la segunda página, puede hacer clic en el enlace "Add content" en el bloque de navegación o puede hacer clic en el menú contextual.
-Recuerde que vamos a utilizar el tipo de contenido "Basic page" para todas nuestras páginas de este sitio.
+Para crear la segunda página, puedes hacer clic en el enlace "Add content" en el bloque de navegación o puedes hacer clic en el menú contextual.
+Recuerda que vamos a utilizar el tipo de contenido "Basic page" para todas nuestras páginas de este sitio.
 
-Después de creado todas las páginas, visite la página de inicio.
+Después de haber creado todas las páginas, visita la página de inicio.
 Bueno, parece que todavía tenemos que configurar un poco más. Nos vemos en el siguiente video!
