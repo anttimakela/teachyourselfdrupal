@@ -1,0 +1,41 @@
+When we visit the home page of our site, we see that there is no front page content.
+In fact, there is no content at all.
+We can verify that by clicking the Find content link in the shortcuts.
+
+Let's add our content now.
+We can click Add content in either the shortcut menu or in the Action links area.
+
+For this simple site we will be using only the Basic Page content type.
+We will be creating a total of six pages.
+Let's create the front page first.
+
+Click on the Basic page link.
+
+The title field is required for all pieces of content.
+You can tell that it is a required field because it has an asterisk next to it.
+The Body field is optional. We will be placing text in the body for all of our pages.
+
+To make things easy, I will use the information provided in the Github repo.
+
+I'm going to open a new browser tab and navigate to https://github.com/teachyourselfdrupal.
+Click on the teachyourselfdrupal repository.
+Click on content-of-basic-pages
+
+Select the Title for the first page and paste it into the Title textfield.
+
+Right now, don't worry about the "Edit summary link."
+Just copy and paste the Body text for Page 1.
+
+You may leave the Text format set to Filtered HTML.
+
+Check the box to provide a menu link.
+
+Scroll down and Save the page.
+
+We will follow this same process for the remaining five pages.
+
+To begin creating the second page, you may either click the Add content link in the Navigation block or you may click it in the shortcut menu.
+Remember that we will use the Basic page content type for all of our pages for this site.
+
+After you have entered all the pages, visit the Home page.
+Well, it seems that we still have to do a bit more configuration. See you in the next video!
