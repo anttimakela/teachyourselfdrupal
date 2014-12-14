@@ -1,0 +1,41 @@
+Kun menemme sivustomme etusivulle, näemme, että etusivulle ei ole luotu sisältöä.
+Itse asiassa, sivustolla ei ole lainkaan sisältöä.
+Voimme varmistaa tämän klikkaamalla "Find content" -linkkiä pikavalikosta.
+
+Aloitetaan lisäämään sisältöä.
+Voimme klikata "Add content" -linkkiä joko pikavalikosta, tai "Action-links" alueella.
+
+Tämän yksinkertaisen sivuston luomiseen käytämme vain "Basic Page" -sisältötyyppiä.
+Luomme yhteensä kuusi sivua.
+Aloitetaan luomalla etusivu.
+
+Klikkaa "Basic page" -linkkiä.
+
+"Title" kenttä on pakollinen.
+Tiedät että kenttä on pakollinen, koska kenttä on merkitty tähdellä.
+"Body" kenttä on valinnainen. Tulemme sijoittamaan tekstiä "body" kenttään kaikille sivuillemme.
+
+Jotta asiat helpottuisi, aiomme käyttää tietoja jotka löytyvät Github arkistosta.
+
+Avaa selaimeen uusi välilehti ja siirry osoitteeseen https://github.com/teachyourselfdrupal.
+Klikkaa teachyourselfdrupal arkistoa.
+Klikkaa content-of-basic-pages
+
+Kopioi ensimmäisen sivun otsikko ja liitä se "Title" tekstikenttään.
+
+Älä välitä "Edit summary" linkistä vielä tässä vaiheessa,
+vaan kopioi ja liitä ensimmäisen sivun "Body" eli leipäteksti.
+
+Voit jättää tekstimuodon asetuksen Filtered HTML tilaan.
+
+Valitse ruutu "provide a menu link".
+
+Selaa alaspäin ja tallenna sivu klikkaamalla "Save".
+
+Seuraamme tätä samaa prosessia jäljellä olevilla viidellä sivulla.
+
+Toisen sivun luomisen voit aloittaa joko klikkaamalla "Navigation" -lohkon "Add content" -linkkiä, tai voit klikata linkkiä pikavalikosta.
+Muista, että käytämme "Basic Page" -sisältötyyppiä kaikille sivuille tällä sivustolla.
+
+Kun olet luonut kaikki sivut, siirry etusivulle.
+No, näyttää siltä että meidän pitää vielä tehdä hieman konfigurointia. Nähdään seuraavalla videolla!
